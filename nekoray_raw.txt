@@ -1,0 +1,7 @@
+trojan://0c6b96bc-5e3a-4500-8497-6dead1965609@6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io:443?sni=6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io&type=ws&path=%2FMkQ4MzFOyssdW9ksbbZ1wwDhJ3&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20TROJAN%20%7C%20188.114.97.7
+trojan://42bf0597-7ac9-4842-a0d9-c6bb39ef3f94@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%20Unknown%20%7C%20TROJAN%20%7C%20220.130.58.136
+trojan://42bf0597-7ac9-4842-a0d9-c6bb39ef3f94@green2.cdntencentmusic.com:35502?sni=green2.cdntencentmusic.com&allowInsecure=1#%F0%9F%8F%B3%20Unknown%20%7C%20TROJAN%20%7C%20220.130.58.136
+trojan://8r<[9'l6hAO#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20TROJAN%20%7C%20172.66.44.230
+trojan://T9BpZIVMNv@vip1.kaixincloud.top:8443?sni=sweden.vmaxpanel.com&allowInsecure=1&type=ws&path=%2Famd&host=sweden.vmaxpanel.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20TROJAN%20%7C%20141.101.120.232
+trojan://a9570330-769d-11ef-90dc-1577c1651679@104.18.1.196:443?sni=sg-trojan.andfree.my.id&type=ws&path=%2Fwelcome&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20TROJAN%20%7C%20104.18.1.196
+trojan://adb1ceb1-e1c0-497d-98e3-2484f8815a53@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com&fp=chrome#%F0%9F%8F%B3%20Unknown%20%7C%20TROJAN%20%7C%20220.130.58.136
