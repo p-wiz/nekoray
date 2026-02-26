@@ -1,0 +1,2 @@
+hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyz&insecure=0&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0HK_3%20%7C%20%E2%AC%87%EF%B8%8F%202.8MB%2Fs
+hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyz&insecure=0&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0HK_10%20%7C%20%E2%AC%87%EF%B8%8F%202.7MB%2Fs
