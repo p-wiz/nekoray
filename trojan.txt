@@ -1,6 +1,1 @@
-trojan://8r<[9'l6hAO#%F0%9F%87%BA%F0%9F%87%B8US | 3 Alireza
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?sni=45.32.28.232&type=tcp#%F0%9F%87%B9%F0%9F%87%BCTW | 4 Alireza
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP | 2 Alireza
 trojan://36639485-60a0-4853-856c-40ac05f4b00d@123.dnscloudcloud.top:443?security=tls&sni=null.us1234567891.xyz&insecure=0&allowInsecure=0&type=ws&path=%2Fmusic#trojan-%E7%BE%8E%E5%9B%BD Alireza
-trojan://36639485-60a0-4853-856c-40ac05f4b00d@123.dnscloudcloud.top:443?security=tls&sni=null.us1234567891.xyz&insecure=0&allowInsecure=0&type=ws&path=%2Fmusic#trojan-%E7%BE%8E%E5%9B%BD Alireza
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2FOkVaxoknnGWI7hLRpJ1#%F0%9F%87%A8%F0%9F%87%A6CA | 3%20%7C%20%E2%AC%87%EF%B8%8F%203.8MB%2Fs Alireza
