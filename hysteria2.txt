@@ -1,7 +1,5 @@
-hysteria2://f1f47c9b-d065-409f-a5b5-e2f1f62d85bf@104.156.140.113:52013?sni=files.xjqxz.top&insecure=1&allowInsecure=1&mport=52013-62013#https%3A%2F%2Ft.me%2Fssltool%20%E2%9A%A1%EF%B8%8F%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E6%9E%81%E9%80%9F12-hy2hop
-hysteria2://f1f47c9b-d065-409f-a5b5-e2f1f62d85bf@142.171.44.180:52013?sni=files.xjqxz.top&insecure=1&allowInsecure=1&mport=52013-62013#https%3A%2F%2Ft.me%2Fssltool%20%E2%9A%A1%EF%B8%8F%20%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E6%9E%81%E9%80%9F16-hy2hop
-hysteria2://82c53f7b-967a-4c5a-8a59-e5d773bd8f94@sg.525168.xyz:30038?sni=sg.525168.xyz&alpn=h3&insecure=0&allowInsecure=0#82c53f7b-singbox_hysteria2
-hysteria2://33e8d651-b550-4676-aa0d-b3255eab6ba5@158.178.247.207:47645?sni=www.bing.com&alpn=h3&insecure=1&allowInsecure=1#hy2-instance-20250911-1928
+hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyz&insecure=0&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0HK_3%20%7C%20%E2%AC%87%EF%B8%8F%202.8MB%2Fs
+hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyz&insecure=0&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0HK_10%20%7C%20%E2%AC%87%EF%B8%8F%202.7MB%2Fs
 hysteria2://f1f47c9b-d065-409f-a5b5-e2f1f62d85bf@104.156.140.113:52013?sni=files.xjqxz.top&insecure=1&allowInsecure=1&mport=52013-62013#https%3A%2F%2Ft.me%2Fssltool%20%E2%9A%A1%EF%B8%8F%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E6%9E%81%E9%80%9F12-hy2hop
 hysteria2://f1f47c9b-d065-409f-a5b5-e2f1f62d85bf@142.171.44.180:52013?sni=files.xjqxz.top&insecure=1&allowInsecure=1&mport=52013-62013#https%3A%2F%2Ft.me%2Fssltool%20%E2%9A%A1%EF%B8%8F%20%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E6%9E%81%E9%80%9F16-hy2hop
 hysteria2://82c53f7b-967a-4c5a-8a59-e5d773bd8f94@sg.525168.xyz:30038?sni=sg.525168.xyz&alpn=h3&insecure=0&allowInsecure=0#82c53f7b-singbox_hysteria2
